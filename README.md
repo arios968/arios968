@@ -1,4 +1,3 @@
-<img src="https://i.pinimg.com/564x/1a/1d/d9/1a1dd9800788a91df6529b5186c38f46.jpg">
 <h1 align="center">Hi 👋, I'm Alejandro R</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
@@ -7,7 +6,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arios968&label=Profile%20views&color=0e75b6&style=flat" alt="arios968" /> </p>
 
-- 📫 How to reach me **alejorios40@gmail.com**
+- 📫 How to reach me <br>
+**alejorios40@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -15,7 +15,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <img src="https://camo.githubusercontent.com/202446cb61bbce41008afe8301a89ae9b3fc0e2ae899fb47340c2ff591330dd0/68747470733a2f2f692e696d6775722e636f6d2f4b5878306343782e676966"
-
+<div display="block">
 <p align="left">
 <a href="https://developer.android.com" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
@@ -44,9 +44,11 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
 </a> 
+<br>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
 </a>
+
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
 </a>
@@ -68,7 +70,7 @@
 <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> 
 </a> </p>
-
+</div>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arios968&show_icons=true&locale=en" alt="arios968" /></p>
 
 
