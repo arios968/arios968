@@ -1,3 +1,4 @@
+<img src="https://i.pinimg.com/564x/1a/1d/d9/1a1dd9800788a91df6529b5186c38f46.jpg">
 <h1 align="center">Hi 👋, I'm Alejandro R</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <img src="https://camo.githubusercontent.com/dbb3a3235ff702893a6a257194abab557d1d3b1645eeb2ef9cb865ee3baf3a0f/68747470733a2f2f692e696d6775722e636f6d2f747a594b5266642e676966">
